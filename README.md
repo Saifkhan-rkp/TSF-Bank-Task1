@@ -29,6 +29,9 @@ The Flow of the Website:
 
 Home Page > All Customers > Select and View one Customer > Transfer Money > Select reciever > View All Customer > View Transfer History.
 
+## objective
+
+- To show tansaction and save all transaction that has been done
 
 ## Tech Stack
 
