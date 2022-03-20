@@ -40,6 +40,6 @@ Home Page > All Customers > Select and View one Customer > Transfer Money > Sele
 
 ## Screenshots
 
-![Home Page](https://raw.github.com/sssplCodeStar/TSF-Banking/master/Screenshots/home.png)
-![All Customers](https://raw.github.com/sssplCodeStar/TSF-Banking/master/Screenshots/All_Cus.png)
-![All Transaction](https://raw.github.com/sssplCodeStar/TSF-Banking/master/Screenshots/All_trans.png)
+![Home Page](https://raw.github.com/sssplCodeStar/TSF-Bank-Task1/master/Screenshots/home.png)
+![All Customers](https://raw.github.com/sssplCodeStar/TSF-Bank-Task1/master/Screenshots/All_Cus.png)
+![All Transaction](https://raw.github.com/sssplCodeStar/TSF-Bank-Task1/master/Screenshots/All_trans.png)
